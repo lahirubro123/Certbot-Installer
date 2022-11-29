@@ -1,3 +1,6 @@
+#!/usr/bin/env bash
+
+
 # Install  packages
 echo script from Bunny_LK
 apt-get update
