@@ -3,5 +3,5 @@ This script for install and obtain certificate For SSl ( auto renew)
 
 
 ```
-bash <(curl -Ls https://raw.githubusercontent.com/FranzKafkaYu/x-ui/master/install.sh)
+bash <(curl -Ls https://raw.githubusercontent.com/lahirubro123/Certbot-Installer/main/install.sh)
 ```
